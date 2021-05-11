@@ -27,7 +27,7 @@
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.4.0",
     "react-native-uuid": "^1.4.9",
-    "react-native-webview": "^9.1.1",
+    "react-native-webview": "^11.0.0",
     "twilio": "^3.42.0"
   },
   "devDependencies": {
